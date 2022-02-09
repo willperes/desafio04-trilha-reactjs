@@ -6,3 +6,11 @@ Nesse desafio proposto pela trilha ReactJS da Rocketseat, o objetivo é realiza
 
 - [x] Migrar a aplicação de componentes de classe para componentes funcionais.
 - [x] Migrar a aplicação de Javascript para Typescript.
+
+### Antes:
+
+<div align="center"><img src="https://i.imgur.com/jTKHDgw.png" alt="Componente Food utilizando classes e Javascript" /></div>
+
+### Depois:
+
+<div align="center"><img src="https://i.imgur.com/ojMW4Zi.png" alt="Componente Food migrado para componente funcional e Typescript" /></div>
